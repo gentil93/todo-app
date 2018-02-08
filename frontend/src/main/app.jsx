@@ -11,5 +11,4 @@ export default props => (
         <Routes />
     </div>
 
-    <h2></h2>
 )
